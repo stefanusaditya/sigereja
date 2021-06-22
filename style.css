@@ -1,0 +1,61 @@
+body {
+    background-image: url('./resource/image/gereja2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-wrapper {
+    background-color: orange;
+    padding: 10px 30px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.wrapper-content {
+    margin-top: 105px;
+    background-color: rgba(255, 255, 255, 0.671);
+    max-width: 400px;
+}
+
+.image-content > img {
+    height: 100px;
+    width: auto;
+}
+
+.active {
+    color: black;
+}
+
+/* LOGIN */
+.login-wrapper {
+    margin-top: 150px;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.form-login {
+    border-radius: 30px;
+}
+
+.button-masuk {
+    border-radius: 20px;
+    width: 30%;
+    padding: 10px;
+    
+}
+
+.berhasil {
+    text-align: center;
+    border: 1px solid green;
+    color: green;
+    background-color:rgb(213, 241, 213);
+    height: 30px;
+}
